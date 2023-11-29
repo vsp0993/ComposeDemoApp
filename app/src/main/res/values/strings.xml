@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ComposeDemoApp</string>
+    <string name="stay_on_top_of_your_finance_with_us">Stay on top of your finance with us.</string>
+    <string name="back">Back</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create account</string>
+    <string name="email">Email</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="email_address">Email address</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="invest_and_double">Invest and double your income now</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign-up</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="product">Product</string>
 </resources>
