@@ -17,4 +17,14 @@
     <string name="bottom_navigation_home">Home</string>
     <string name="bottom_navigation_profile">Profile</string>
     <string name="product">Product</string>
+    <string name="cd_drawer">Open drawer</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="cd_menu">Menu</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="platinum">Plattinum</string>
+    <string name="diamond">Diamond</string>
+    <string name="uranium">Uranium</string>
 </resources>
