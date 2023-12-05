@@ -27,7 +27,6 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.wear.compose.material.ContentAlpha
 import com.composedemoapp.R
-import com.composedemoapp.drawer.ComposeDemoDrawer
 import com.composedemoapp.navigation.HomeBottomNavigation
 import com.composedemoapp.navigation.HomeSections
 import com.composedemoapp.ui.theme.ComposeDemoAppTheme
